@@ -1,53 +1,67 @@
-RevUp : The Sales Accelerator
+# RevUp: The Sales Accelerator  
 
-Overview
+A dynamic **Power BI dashboard** offering deep insights into **sales, customer behavior, and inventory management**. Designed with **Row-Level Security (RLS)**, it ensures controlled access while providing **actionable intelligence** for decision-makers.  
 
-This Power BI dashboard provides a comprehensive analysis of sales, customers, and inventory data. Designed with role-based security, the dashboard ensures tailored access to data while offering actionable insights for decision-making. The project leverages advanced Power BI features like Row-Level Security (RLS) to limit data visibility based on user roles.
-
-Features
-	•	Overview Tab: Displays a high-level summary of key business metrics and KPIs.
-	•	Sales Overview Tab: Analyzes sales trends, regional performance, and revenue growth.
-	•	Customer Tab: Focuses on customer demographics, segmentation, and purchase patterns.
-	•	Inventory Tab: Tracks inventory levels, turnover rates, and stock management efficiency.
-	•	Role-Based Security (RLS):
-	•	Sales Heads: Can view data for their assigned region only.
-	•	Admin: Has access to the complete dataset.
-
-Technologies Used
-	•	Power BI Desktop: For dashboard development and visualization.
-	•	Row-Level Security (RLS): To restrict data visibility based on user roles.
-	•	DAX: Used for advanced measures, calculated columns, and KPIs.
-
-Dataset Details
-
-The dashboard uses the following datasets:
-	1.	Customer Data: Information about customer demographics and purchasing behavior.
-	2.	Inventory Data: Includes stock levels, product categories, and inventory turnover.
-	3.	Sales Data: Transactional data with sales amounts, regions, and product details.
-	4.	Summary Data: Aggregated metrics for performance analysis.
-
-Screenshot
-
-![Home](https://github.com/user-attachments/assets/93eeca96-b29a-41eb-98d4-8eb7cf5b56fa)
-
-![Overview](https://github.com/user-attachments/assets/27265a1f-ff41-49d4-9205-3e7239960c9e)
+![RevUp Dashboard Preview](https://github.com/user-attachments/assets/93eeca96-b29a-41eb-98d4-8eb7cf5b56fa)  
+![Sales Overview](https://github.com/user-attachments/assets/0727e755-8437-4496-8e6e-e3d9b5f67067)
+![Customer](https://github.com/user-attachments/assets/07f67a17-f57a-45c4-b7b8-67a98c71eaf4)
+![Inventory](https://github.com/user-attachments/assets/1c5824cd-ec49-4c78-87fb-7e410ad647fc)
 
 
-Key Insights
-	1.	Sales Performance: Region A recorded the highest revenue, while Region C shows potential for growth.
-	2.	Customer Behavior: Returning customers contribute to 65% of total sales revenue.
-	3.	Inventory: Product X has the highest stock turnover, while Product Y requires restocking.
-	4.	Regional Visibility: RLS ensures data security and allows sales heads to access only relevant data.
 
-Future Enhancements
-	•	Add predictive analytics to forecast future sales and inventory needs.
-	•	Enable integration with live data sources for real-time analysis.
-	•	Deploy the dashboard to Power BI Service for web-based sharing and collaboration.
 
-Author
+---
 
-Arsha Pradeep
-	•	Role: BI Developer and Data Analyst
-	•	LinkedIn: https://www.linkedin.com/in/arsha-pradeep-943914188/
-	•	GitHub: [GitHub Profile
-](https://github.com/arshapradeep5)
+## 📊 Features  
+
+✔ **Overview Tab:** Business performance summary with key KPIs.  
+✔ **Sales Overview:** Regional trends, revenue growth, and performance insights.  
+✔ **Customer Insights:** Customer segmentation, demographics, and purchasing behavior.  
+✔ **Inventory Management:** Stock levels, turnover rates, and replenishment needs.  
+✔ **Role-Based Security (RLS):**  
+   - 🏢 **Sales Heads:** View regional data only.  
+   - 🔑 **Admin:** Access to full dataset.  
+
+---
+
+## ⚙️ Technologies Used  
+
+🛠 **Power BI Desktop** - Interactive dashboard creation.  
+🧠 **DAX (Data Analysis Expressions)** - Advanced calculations & KPIs.  
+🔒 **Row-Level Security (RLS)** - Restrict data access by roles.  
+
+---
+
+## 📂 Dataset Details  
+
+📁 **Customer Data:** Demographics & purchasing trends.  
+📁 **Inventory Data:** Stock levels & product turnover.  
+📁 **Sales Data:** Revenue, regional breakdown, and transactions.  
+📁 **Summary Data:** Aggregated key business metrics.  
+
+---
+
+## 📈 Key Insights  
+
+📌 **Top-Performing Region:** Region A leads in revenue.  
+📌 **Customer Behavior:** Returning customers drive 65% of sales.  
+📌 **Inventory Efficiency:** Product X has the highest stock turnover.  
+📌 **Secure Data Access:** Sales heads view only their assigned regions.  
+
+---
+
+## 🔮 Future Enhancements  
+
+✨ Predictive analytics for sales forecasting.  
+✨ Real-time data integration from live sources.  
+✨ Power BI Service deployment for seamless sharing.  
+
+---
+
+## 👤 Author  
+
+**Arsha Pradeep**  
+🔹 BI Developer | Data Analyst | Power BI Specialist  
+🔗 [LinkedIn](https://www.linkedin.com/in/arsha-pradeep-943914188/) | 🔗 [GitHub](https://github.com/arshapradeep5)  
+
+---
